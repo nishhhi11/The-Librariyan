@@ -1,0 +1,7 @@
+{
+  "name": "The Librariyan",
+  "description": "An intelligent, sophisticated book recommendation engine and book trailer generator using Google Gemini and Veo models.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
